@@ -14,11 +14,7 @@
     "url": "http://example.com"
   },
   "type": "privileged",
-  "permissions": {
-    "geolocation": {
-      "description": "Required for map"
-    }
-  },
+  "permissions": {},
   "installs_allowed_from": [
     "*"
   ],
